@@ -23,12 +23,11 @@ int main()
             temp_start_index=i+1;
         }
     }
-    printf("Maximum subarray sum %d\n", max_sum);
+    printf("Maximum subarray sum: %d\n", max_sum);
+    printf("Maximum subarray: ");
     for (int i = start_index; i <= end_index; i++)
     {
         printf("%d ", a[i]);
     }
-
-
     return 0;
 }
