@@ -1,1 +1,1 @@
-# DSA-1
+Welcome to my DSA Repository! This repository includes implementations of different data structures and algorithms. I will begin with basic structures like Arrays and gradually cover more advanced ones. Feel free to explore the implementations.
